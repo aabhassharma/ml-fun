@@ -1,0 +1,6 @@
+#!/bin/sh
+set -ex
+export twitter_consumer_key="5Nj7bmKB2i3J5fuUkrmtYWmno"
+export twitter_consumer_secret="wAJgWtq5izKjKNpAG2d7SvbyZ7lIzqya5Vu8dlx8wow7JL5yQc"
+export twitter_access_token_key="216279056-7fGzNPIQDwKtz4VFYL5ABA8nZEkovGq0cTxJY3mT"
+export twitter_access_token_secret="RFzaHB5bC2n5wZzkZVBP5X8cBNbQG2Ptu7cypQaZBCHuH"
