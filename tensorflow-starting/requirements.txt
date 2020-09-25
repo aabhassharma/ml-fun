@@ -106,7 +106,7 @@ Scrapy==0.24.4
 six==1.11.0
 Sphinx==1.2.3
 stevedore==1.1.0
-tensorflow==1.5.0
+tensorflow==1.15.4
 tensorflow-tensorboard==1.5.0
 tornado==4.0.2
 virtualenv==1.11.4
