@@ -31,7 +31,7 @@ gnureadline==6.3.3
 html5lib==0.9999999
 httplib2==0.9
 ipython==2.3.1
-Jinja2==2.7.3
+Jinja2==2.11.3
 jmespath==0.7.1
 logilab-common==0.61.0
 lxml==3.4.1
