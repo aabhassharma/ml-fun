@@ -96,7 +96,7 @@ pyparsing==2.0.1
 python-dateutil==2.4.2
 python-memcached==1.53
 pytz==2014.2
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==14.4.1
 queuelib==1.2.2
 requests==2.4.3
