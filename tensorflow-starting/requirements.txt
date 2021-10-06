@@ -102,7 +102,7 @@ queuelib==1.2.2
 requests==2.4.3
 rsa==3.1.4
 scipy==0.13.0b1
-Scrapy==0.24.4
+Scrapy==1.8.1
 six==1.11.0
 Sphinx==1.2.3
 stevedore==1.1.0
