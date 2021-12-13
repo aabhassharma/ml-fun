@@ -34,7 +34,7 @@ ipython==2.3.1
 Jinja2==2.7.3
 jmespath==0.7.1
 logilab-common==0.61.0
-lxml==3.4.1
+lxml==4.6.5
 macholib==1.5.1
 Markdown==2.6.11
 MarkupSafe==0.23
